@@ -33,9 +33,9 @@ Here are some certifications I have earned:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white) ![Illustration](https://raw.githubusercontent.com/noordinofficial/img/master/image.png)
-
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white) 
 ---
+![Illustration](https://raw.githubusercontent.com/noordinofficial/img/master/image.png)
 
 
 
