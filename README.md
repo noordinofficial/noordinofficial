@@ -4,9 +4,13 @@
 <h3 align="center">A Software Engineering Student and Web/Mobile Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
-- 🔭 I’m currently working on **Web Applications** for NaimaBabyShop and other projects
-- 📫 How to reach me: **nurdin@example.com** (replace with your actual contact email)
-- 🚀 Website: **[https://nurdin-portfolio.netlify.app/](https://nurdin-portfolio.netlify.app/)** (replace with your actual website)
+# Hi 👋, I'm Nurdin Abdi
+
+### A Software Engineering Student, Web Application Developer with Django, Junior Cybersecurity Analyst, and Intern Seeker.
+
+- 🌟 I’m currently working on Web Applications.
+- 📫 How to reach me: [noordin13283@gmail.com](mailto:noordin13283@gmail.com) or [koyatem6@gmail.com](mailto:koyatem6@gmail.com).
+- 🚀 LinkedIn: [Nurdin Abdi Yussuf](https://www.linkedin.com/in/nurdin-abdi-yussuf-b3668b21b/)
 
 ---
 
@@ -38,15 +42,16 @@
 
 ---
 
-<h3 align="left">Certifications:</h3>
+### Certifications:
 Here are some certifications I have earned:
-- **[IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/9e7a5072-c240-4684-bf78-68ae9cc4e870/linked_in_profile)**
-- **[Let's Defend - Phishing Analysis Badge](https://app.letsdefend.io/my-rewards/detail/1f41d89c-aade-47a6-9fc7-3bf98c3d22a9)**
-- **[IBM Cybersecurity Practitioner](https://www.credly.com/badges/4c66c3d2-aca1-4db9-bee7-51faf25f8f6e/linked_in_profile)**
-- **[Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/account/accomplishments/verify/IBZUGI2U8TKT)**
-- **[Introduction to Cybersecurity Essentials](https://www.coursera.org/account/accomplishments/verify/D8AVZ3AN7LB1)**
-- **[IBM Cybersecurity Analyst Explorer](https://www.credly.com/badges/3e4d4493-03af-4eb6-baf9-bba69c20b016/linked_in_profile)**
-- **[IBM Cybersecurity Analyst Innovator](https://www.credly.com/earner/earned/badge/47165337-ef53-4e48-8ff3-2bc1360aabd2)**
+
+1. **[IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/9e7a5072-c240-4684-bf78-68ae9cc4e870/linked_in_profile)**
+2. **[Let's Defend - Phishing Analysis Badge](https://app.letsdefend.io/my-rewards/detail/1f41d89c-aade-47a6-9fc7-3bf98c3d22a9)**
+3. **[IBM Cybersecurity Practitioner](https://www.credly.com/badges/4c66c3d2-aca1-4db9-bee7-51faf25f8f6e/linked_in_profile)**
+4. **[Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/account/accomplishments/verify/IBZUGI2U8TKT)**
+5. **[Introduction to Cybersecurity Essentials](https://www.coursera.org/account/accomplishments/verify/D8AVZ3AN7LB1)**
+6. **[IBM Cybersecurity Analyst Explorer](https://www.credly.com/badges/3e4d4493-03af-4eb6-baf9-bba69c20b016/linked_in_profile)**
+7. **[IBM Cybersecurity Analyst Innovator](https://www.credly.com/earner/earned/badge/47165337-ef53-4e48-8ff3-2bc1360aabd2)**
 
 ---
 
