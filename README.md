@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @noordinofficial
-- 👀 I’m interested in technological world
-- 🌱 I’m currently learning bsc.Applied computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on my emials and social networks in my profile
+# Hi 👋, I'm [Your Name]
 
-<!---
-noordinofficial/noordinofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A Software Engineering Student and Web/Mobile Application Developer
+
+- 🌟 I’m currently working on Web Applications
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 🚀 Website: [your-website-link](https://yourwebsite.com)
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+
+### Languages and Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+...
