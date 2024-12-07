@@ -6,7 +6,7 @@
 
 
 
-### A Software Engineering Student, Web Application Developer with Django, Junior Cybersecurity Analyst, and Intern Seeker.
+### A Software Engineering Student, Web Application Developer with Django, Junior Cybersecurity Analyst, and Intern Seeker.##
 
 - 🌟 I’m currently working on Web Applications.
 - 📫 How to reach me: [noordin13283@gmail.com](mailto:noordin13283@gmail.com) or [koyatem6@gmail.com](mailto:koyatem6@gmail.com).
