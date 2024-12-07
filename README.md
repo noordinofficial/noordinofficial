@@ -9,10 +9,9 @@
 - 🚀 LinkedIn: [Nurdin Abdi Yussuf](https://www.linkedin.com/in/nurdin-abdi-yussuf-b3668b21b/)
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nurdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurdin" height="30" width="40" /></a>
-</p>
+- 🌟 I’m currently working on Web Applications.
+- 📫 How to reach me: [noordin13283@gmail.com](mailto:noordin13283@gmail.com) or [koyatem6@gmail.com](mailto:koyatem6@gmail.com).
+- 🚀 LinkedIn: [Nurdin Abdi Yussuf](https://www.linkedin.com/in/nurdin-abdi-yussuf-b3668b21b/)
 
 ---
 
