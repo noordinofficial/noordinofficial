@@ -1,3 +1,5 @@
+![Illustration](https://raw.githubusercontent.com/noordinofficial/img/master/image.png)
+
 # Hi 👋, I'm Nurdin Abdi
 
 ### A Software Engineering Student, Web Application Developer with Django, Junior Cybersecurity Analyst, and Intern Seeker.
@@ -33,9 +35,18 @@ Here are some certifications I have earned:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-green?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-blue?style=flat&logo=wireshark&logoColor=white)
+![rkhanter](https://img.shields.io/badge/-rkhanter-red?style=flat&logo=rkhanter&logoColor=white)
+![WebSploit](https://img.shields.io/badge/-WebSploit-yellow?style=flat&logo=websploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-darkgreen?style=flat&logo=metasploit&logoColor=white)
 ---
-![Illustration](https://raw.githubusercontent.com/noordinofficial/img/master/image.png)
+
+## Achievements:
+- ![Credly](https://img.shields.io/badge/Certified%20Ethical%20Hacker-blue?logo=credly&logoColor=white&style=flat-square) [Certified Ethical Hacker](https://www.credly.com/)
+- ![Coursera](https://img.shields.io/badge/Cybersecurity%20Essentials-blue?logo=coursera&logoColor=white&style=flat-square) [Cybersecurity Essentials](https://coursera.org/)
+
 
 
 
