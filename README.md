@@ -1,13 +1,12 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
 <h1 align="center">Hi 👋, I'm Nurdin</h1>
-<h3 align="center">A Software Engineering Student and Web/Mobile Application Developer</h3>
+<h3 align="center">A Software Engineering Student, Web Application Developer with Django, Junior Cybersecurity Analyst, and Intern Seeker.<h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 - 🔭 I’m currently working on **Web Applications** for NaimaBabyShop and other projects
-- 📫 How to reach me: **nurdin@example.com** (replace with your actual contact email)
-- 🚀 Website: **[https://nurdin-portfolio.netlify.app/](https://nurdin-portfolio.netlify.app/)** (replace with your actual website)
-
+-📫 How to reach me: [noordin13283@gmail.com](mailto:noordin13283@gmail.com) or [koyatem6@gmail.com](mailto:koyatem6@gmail.com).
+- 🚀 LinkedIn: [Nurdin Abdi Yussuf](https://www.linkedin.com/in/nurdin-abdi-yussuf-b3668b21b/)
 ---
 
 <h3 align="left">Connect with me:</h3>
