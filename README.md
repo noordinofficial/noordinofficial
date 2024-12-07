@@ -1,10 +1,10 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
 <h1 align="center">Hi 👋, I'm Nurdin</h1>
-<h3 align="center">A Software Engineering Student and Web/Mobile Application Developer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
-# Hi 👋, I'm Nurdin Abdi
+
 
 ### A Software Engineering Student, Web Application Developer with Django, Junior Cybersecurity Analyst, and Intern Seeker.
 
