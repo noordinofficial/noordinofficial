@@ -38,4 +38,5 @@ Here are some certifications I have earned:
 ---
 
 ### About Me:
-![Illustration](path/to/image.png) <!-- Replace 'path/to/image.png' with the actual path to your illustration file -->
+![Illustration](https://undraw.co/assets/images/illustrations/coding_re_iv62.svg)
+
